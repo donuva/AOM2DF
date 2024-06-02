@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AoM: Detecting Aspect-oriented Information for Multimodal Aspect-Based Sentiment Analysis
 
 Codes for AoM: Detecting Aspect-oriented Information for Multimodal Aspect-Based Sentiment Analysis (ACL Findings 2023)
@@ -17,3 +18,6 @@ sh 17_pretrain_full.sh
 
 ## Acknowledgements
 Our framework and some codes are based on [VLP-MABSA](https://github.com/NUSTM/VLP-MABSA), thanks very much!
+=======
+# AOM2DF
+>>>>>>> f145b1ff30766a397e7542cfe9cf9cb3b7f8ffcd

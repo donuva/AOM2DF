@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 15_aesc
 Data_New
 src/data/jsons
@@ -5,6 +6,8 @@ src/data/TRC
 src/data/twitter2015/
 src/data/twitter2017/
 
+=======
+>>>>>>> f145b1ff30766a397e7542cfe9cf9cb3b7f8ffcd
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
