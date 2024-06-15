@@ -1,21 +1,4 @@
-# AoM: Detecting Aspect-oriented Information for Multimodal Aspect-Based Sentiment Analysis
 
-Codes for AoM: Detecting Aspect-oriented Information for Multimodal Aspect-Based Sentiment Analysis (ACL Findings 2023)
+### lĩnh vực: NLP, Multimodal, Computer Vision,Multimodal Aspectbased Sentiment Analysis (MABSA)
 
-## Pre-Training
-
-`sh TRC_pretrain.sh`
-
-## MABSA finetuning
-```
-sh 15_pretrain_full.sh
-sh 17_pretrain_full.sh
-```
-
-## Link for checkpoints
-[AoM_ckpt](https://drive.google.com/drive/folders/13YovBuSu6jo9ctp7rJQm95aXsEeOHspV?usp=share_link)
-
-## Acknowledgements
-Our framework and some codes are based on [VLP-MABSA](https://github.com/NUSTM/VLP-MABSA), thanks very much!
-=======
-# AOM2DF
+### ABSTRACT: Sử dụng module phát hiện thông tin ngữ nghĩa và cảm xúc định hướng khía cạnh(A3M & AG-GCN) từ bài báo AoM kết hợp với phương pháp học tập có giáo trình(cirriculum learning) đã cho ra kết quả cao hơn bài báo gốc trong cùng điều kiện.
